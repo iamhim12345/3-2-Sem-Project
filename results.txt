@@ -1,0 +1,19 @@
+random forest first run
+mean absolute error 6.609013950682573
+mean square error 98.98377477481974
+second run
+mean absolute error 36.223743778867444
+mean square error 2199.4226886559204
+third runmean absolute error 38.39301086064762
+mean square error 2820.756331249768
+
+
+
+xgboost 
+first run
+mean absolute error 3.8294138636879325
+mean square error 26.660336440911877
+second run
+mean absolute error 4.212984825845003
+mean square error 45.04713544685871
+
